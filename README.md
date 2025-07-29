@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-  git clone https://github.com/Roshan200305/flight-price-prediction.git
+   git clone https://github.com/Roshan200305/flight-price-prediction.git
 
    cd flight-price-prediction
    ```
