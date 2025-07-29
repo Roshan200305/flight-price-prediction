@@ -57,10 +57,7 @@ pip install -r requirements.txt
   - R² Score
   - Mean Absolute Error
   - Mean Squared Error
-
-## 📌 Author
-
-- [Your Name](https://github.com/your-username)
+  
 
 ---
 
